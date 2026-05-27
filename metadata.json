@@ -1,0 +1,6 @@
+{
+  "name": "SUDHEER — THE COSMIC ARCHIVE",
+  "description": "An ultra-premium cinematic 3D solar system experience with interactive planetary exploration and a Gemini-powered Cosmic AI Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
